@@ -5,10 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <!-- === Project Coordinates === -->
-    <!-- TODO: Update accordingly -->
     <groupId>io.github.chrimle</groupId>
     <artifactId>compact-java-cli</artifactId>
-    <version>0.0.0</version>
+    <version>0.1.0-alpha</version>
     <packaging>jar</packaging>
 
     <!-- === Project Metadata === -->
