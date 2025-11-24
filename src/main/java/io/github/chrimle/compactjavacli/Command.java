@@ -8,6 +8,7 @@ import java.lang.annotation.Target;
 
 /**
  * A <em>method</em> may be annotated with <em>this</em> annotation.
+ *
  * @since 0.1.0
  * @author Chrimle
  */
